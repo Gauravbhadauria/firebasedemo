@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firebasedemo</string>
+
+    <string name="facebook_app_id">814030910017366</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">668ed406e287bdf42d4259a8ad011268</string>
+
+
+</resources>
